@@ -1,8 +1,8 @@
 # Elasticsearch
 
-Clément MACHADO
+# Clément MACHADO
 
-Exercice 1
+# Exercice 1
 
 Le fichier elasticsearch.yml:
 # ======================== Elasticsearch Configuration =========================
