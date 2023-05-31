@@ -3,6 +3,7 @@
 Clément MACHADO
 
 Exercice 1
+
 Le fichier elasticsearch.yml:
 # ======================== Elasticsearch Configuration =========================
 #
